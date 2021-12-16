@@ -1,0 +1,12 @@
+C:\Users\artsa\OneDrive\Desktop\MPP_DIContainer-master\DIContainer\bin\Debug\net5.0\DIContainer.deps.json
+C:\Users\artsa\OneDrive\Desktop\MPP_DIContainer-master\DIContainer\bin\Debug\net5.0\DIContainer.dll
+C:\Users\artsa\OneDrive\Desktop\MPP_DIContainer-master\DIContainer\bin\Debug\net5.0\ref\DIContainer.dll
+C:\Users\artsa\OneDrive\Desktop\MPP_DIContainer-master\DIContainer\bin\Debug\net5.0\DIContainer.pdb
+C:\Users\artsa\OneDrive\Desktop\MPP_DIContainer-master\DIContainer\obj\Debug\net5.0\DIContainer.csproj.AssemblyReference.cache
+C:\Users\artsa\OneDrive\Desktop\MPP_DIContainer-master\DIContainer\obj\Debug\net5.0\DIContainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artsa\OneDrive\Desktop\MPP_DIContainer-master\DIContainer\obj\Debug\net5.0\DIContainer.AssemblyInfoInputs.cache
+C:\Users\artsa\OneDrive\Desktop\MPP_DIContainer-master\DIContainer\obj\Debug\net5.0\DIContainer.AssemblyInfo.cs
+C:\Users\artsa\OneDrive\Desktop\MPP_DIContainer-master\DIContainer\obj\Debug\net5.0\DIContainer.csproj.CoreCompileInputs.cache
+C:\Users\artsa\OneDrive\Desktop\MPP_DIContainer-master\DIContainer\obj\Debug\net5.0\DIContainer.dll
+C:\Users\artsa\OneDrive\Desktop\MPP_DIContainer-master\DIContainer\obj\Debug\net5.0\ref\DIContainer.dll
+C:\Users\artsa\OneDrive\Desktop\MPP_DIContainer-master\DIContainer\obj\Debug\net5.0\DIContainer.pdb
